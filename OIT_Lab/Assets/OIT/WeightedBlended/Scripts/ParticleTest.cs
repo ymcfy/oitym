@@ -633,7 +633,7 @@ public class ParticleTest : MonoBehaviour
                 //startSize = (float)listMole6[i],
                 //startColor = new Color32(255, 255, 255, 255),
                 //startColor = color,
-                startColor = new Color32(0, 0, 255, normalize(listMole6[i])),
+                startColor = new Color32(25, 25, 255, normalize(listMole6[i])),
                 //startColor = new Color32(255, 255, 255, concentration),
                 startSize = 4f,
                 startLifetime = 525f,
